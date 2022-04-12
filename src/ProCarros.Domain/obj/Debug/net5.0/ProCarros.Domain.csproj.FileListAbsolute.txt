@@ -1,0 +1,12 @@
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\bin\Debug\net5.0\ProCarros.Domain.deps.json
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\bin\Debug\net5.0\ProCarros.Domain.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\bin\Debug\net5.0\ref\ProCarros.Domain.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\bin\Debug\net5.0\ProCarros.Domain.pdb
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.csproj.AssemblyReference.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.AssemblyInfo.cs
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ref\ProCarros.Domain.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Domain\obj\Debug\net5.0\ProCarros.Domain.pdb

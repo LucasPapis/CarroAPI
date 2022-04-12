@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+   <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <ProjectReference Include="..\ProCarros.Domain\ProCarros.Domain.csproj" />
+    <ProjectReference Include="..\ProCarros.Persistence\ProCarros.Persistence.csproj" />
+  </ItemGroup>
+</Project>

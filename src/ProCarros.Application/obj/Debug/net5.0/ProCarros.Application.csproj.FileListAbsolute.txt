@@ -1,0 +1,17 @@
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Application.deps.json
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Application.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ref\ProCarros.Application.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Application.pdb
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.csproj.AssemblyReference.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.AssemblyInfoInputs.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.AssemblyInfo.cs
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ref\ProCarros.Application.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.pdb
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Domain.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Persistence.dll
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Domain.pdb
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\bin\Debug\net5.0\ProCarros.Persistence.pdb
+C:\Users\Lucas Papis\Desktop\ProCarros\src\ProCarros.Application\obj\Debug\net5.0\ProCarros.Application.csproj.CopyComplete
